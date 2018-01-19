@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TpActivityReturn</string>
+    <string name="btnReturnName">Send Name</string>
+    <string name="btnEditName">Edit Name</string>
+</resources>

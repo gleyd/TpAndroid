@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TPToastSnack</string>
+    <string name="btn_toast">Toast !</string>
+    <string name="btn_snack">SNACK !</string>
+</resources>

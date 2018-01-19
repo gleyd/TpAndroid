@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TPList</string>
+
+    <array name="pizzas">
+        <item>Romana</item>
+        <item>Figatelli</item>
+        <item>Lassagne</item>
+        <item>fromage</item>
+        <item>Jaombon Fromage</item>
+        <item>Anchoix</item>
+    </array>
+</resources>
